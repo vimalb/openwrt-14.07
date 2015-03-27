@@ -160,6 +160,9 @@ ramips_board_detect() {
 	*"HAME MPR-A2")
  		name="mpr-a2"
  		;;
+	*"USRS12")
+ 		name="usrs12"
+ 		;;
 	*"Kingston MLW221")
 		name="mlw221"
 		;;

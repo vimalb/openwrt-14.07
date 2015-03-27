@@ -60,6 +60,7 @@ platform_check_image() {
 	mofi3500-3gn | \
 	mpr-a1 | \
 	mpr-a2 | \
+	usrs12 | \
 	mzk-w300nh2 | \
 	nbg-419n | \
 	nw718 | \

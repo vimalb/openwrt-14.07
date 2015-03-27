@@ -127,6 +127,9 @@ case $board in
 	mpr-a2)
 		set_wifi_led "hame:blue:system"
 		;;
+	usrs12)
+		set_wifi_led "hame:blue:system"
+		;;
 	mzk-w300nh2)
 		set_wifi_led "mzkw300nh2:amber:wlan"
 		;;

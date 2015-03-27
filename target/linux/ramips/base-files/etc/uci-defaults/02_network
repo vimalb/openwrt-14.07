@@ -253,6 +253,7 @@ ramips_setup_macs()
 	hlk-rm04 | \
 	mpr-a1 | \
 	mpr-a2 | \
+	usrs12 | \
 	dir-300-b7 | \
 	dir-320-b1 | \
 	psr-680w |\
